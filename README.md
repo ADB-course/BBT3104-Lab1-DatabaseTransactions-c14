@@ -8,6 +8,8 @@
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
+:-----------------------------------------------------:
+![]("C:\Users\ivymu\Desktop\adv database\flowchart.jpg") 
 
 ## Pseudocode
 
