@@ -8,9 +8,10 @@
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
+![flowchart](https://github.com/user-attachments/assets/8a7aa98a-422e-49c3-8685-dd6cbdc8d9a0)
 
 
-![ Alt Text](C:\Users\ivymu\OneDrive\Documents\GitHub\BBT3104-Lab1-DatabaseTransactions-c14\images\flowchart.jpg). 
+
 
 
 
