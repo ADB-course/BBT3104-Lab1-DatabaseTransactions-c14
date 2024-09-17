@@ -8,12 +8,12 @@
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
-flowchart.jpg
-
-[ Alt Text](C:\Users\ivymu\OneDrive\Documents\GitHub\BBT3104-Lab1-DatabaseTransactions-c14\images\flowchart.jpg). 
 
 
-"C:\Users\ivymu\OneDrive\Documents\GitHub\BBT3104-Lab1-DatabaseTransactions-c14\images\flowchart.jpg"
+![ Alt Text](C:\Users\ivymu\OneDrive\Documents\GitHub\BBT3104-Lab1-DatabaseTransactions-c14\images\flowchart.jpg). 
+
+
+
 
 ## Pseudocode
 <p>
